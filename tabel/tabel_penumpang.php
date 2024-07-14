@@ -9,6 +9,7 @@
 				Tambah Data Penumpang
 			</div>
 		</a>
+		<a href="laporan/laporan_penumpang.php" class="btn btn-primary"><span class="fa fa-book"></span>Ekspor</a>
 		<table id="table_id" class="display">
 		    <thead>
 		        <tr>

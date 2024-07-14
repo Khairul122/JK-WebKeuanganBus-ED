@@ -6,6 +6,7 @@
 			</div>
 			<div class="content">
 				<a href="?perangkat=create-jadwal" class="btn btn-primary"><span class="fa fa-pencil"></span> Create</a>
+				
 				<table id="table_id" class="display">
 					<thead class="no-border">
 						<tr>

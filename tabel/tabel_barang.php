@@ -9,6 +9,7 @@
 				Tambah Data Barang
 			</div>
 		</a>
+		<a href="laporan/laporan_barang.php" class="btn btn-primary"><span class="fa fa-book"></span>Ekspor</a>
 		<table id="table_id" class="display">
 		    <thead>
 		        <tr>
